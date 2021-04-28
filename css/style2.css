@@ -1,0 +1,31 @@
+/* Created by: Ryan-Shaw-2
+* Created on: Apr 2021
+* This CSS file defines the style for index2.html ICS2O-Unit1-03-HTML-CSS
+*/
+
+body {
+  background-color: rgb(102, 120, 228);
+}
+
+h1 {
+  background-color: rgb(3, 20, 252);
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  padding: 40px;
+  text-align: center;
+}
+
+#hello-world {
+  background-color: #fcbe03;
+  color: rgb(201, 14, 14);
+  font-family: fantasy, serif;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 200px;
+}
