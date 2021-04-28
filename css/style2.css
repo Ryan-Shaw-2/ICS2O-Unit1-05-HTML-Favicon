@@ -7,18 +7,18 @@ body {
   background-color: rgb(102, 120, 228);
 }
 
-h1 {
+#favicon-header {
   background-color: rgb(3, 20, 252);
   color: rgb(255, 255, 255);
-  font-family: 'Times New Roman', Times, serif;
-  padding: 40px;
+  font-family: sans-serif;
+  padding: 30px;
   text-align: center;
 }
 
 #hello-world {
   background-color: #fcbe03;
   color: rgb(201, 14, 14);
-  font-family: fantasy, serif;
+  font-family: serif;
   text-align: center;
 }
 
